@@ -20,3 +20,7 @@ ln -s $PWD/uk-covid-19.10m.sh <path-to-bitbar-plugins-folder>/uk-covid-19.10m.sh
 ```
 
 Refresh your Bitbar plugins
+
+## Preview
+
+![Preview](preview-covid-19-uk.png)
