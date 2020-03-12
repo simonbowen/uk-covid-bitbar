@@ -15,3 +15,4 @@ echo "COVID-19 🇬🇧 $TOTAL_DEATHS/$TOTAL_CASES | href='https://www.arcgis.co
 echo "🏴󠁧󠁢󠁥󠁮󠁧󠁿 $ENGLAND_CASES"
 echo "🏴󠁧󠁢󠁳󠁣󠁴󠁿 $SCOTLAND_CASES"
 echo "🏴󠁧󠁢󠁷󠁬󠁳󠁿 $WALES_CASES"
+echo "NI $NI_CASES"
