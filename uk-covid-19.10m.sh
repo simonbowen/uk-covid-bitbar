@@ -11,7 +11,8 @@ SCOTLAND_CASES="$(echo $COVID_DATA | jq .ScotlandCases)"
 WALES_CASES="$(echo $COVID_DATA | jq .WalesCases)"
 NI_CASES="$(echo $COVID_DATA | jq .NICases)"
 
-echo "COVID-19 🇬🇧 $TOTAL_DEATHS 💀 $TOTAL_CASES 😷 | href='https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14'"
+echo "COVID-19 🇬🇧 $TOTAL_DEATHS 💀 $TOTAL_CASES 😷"
+echo ---
 echo "🏴󠁧󠁢󠁥󠁮󠁧󠁿 $ENGLAND_CASES"
 echo "🏴󠁧󠁢󠁳󠁣󠁴󠁿 $SCOTLAND_CASES"
 echo "🏴󠁧󠁢󠁷󠁬󠁳󠁿 $WALES_CASES"
